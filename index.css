@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#background-color{
+    background-color: rgb(189 244 170 );
+}
+#header{
+    width: 100%;
+    background-color: #9bc6f191;
+}
+h1{
+    font-family: 'Averia Libre', cursive;}
+
+#container{
+    top: 60px;
+    left: 100px;
+    width: 100vw;
+    height: 100vw;
+    background-color: rgba(193, 228, 250, 0.842);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.mix {
+    border: inset;
+}
+.box {
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    background-repeat: no-repeat; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border-radius: 30px; */
+
+}
